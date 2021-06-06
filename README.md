@@ -2,6 +2,8 @@ DIC PROJECT
 # Covid19_prediction_polynomial_regression
 It is a Covid Predictor ML model in which we can predict number of CONFIRMED cases, no. of Recovered cases & no.of Deceased cases for various states on the upcoming days, by using Linear Regression and Polynomial Regression.
 
+SAMPLE STATE MAHARASTRA
+
 ![image](https://user-images.githubusercontent.com/56075324/120918061-1a335100-c6d0-11eb-9cc1-52c65056ce35.png)
 Confirmed Cases VS Days Real data 
 
